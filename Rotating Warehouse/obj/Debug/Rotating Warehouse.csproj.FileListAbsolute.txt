@@ -1,0 +1,65 @@
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Rotating Warehouse.exe.config
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Rotating Warehouse.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Rotating Warehouse.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse.csproj.AssemblyReference.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\MainWindow.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\App.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse_MarkupCompile.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse_MarkupCompile.lref
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\MainWindow.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse.g.resources
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating_Warehouse.Properties.Resources.resources
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse.csproj.GenerateResource.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse.csproj.CoreCompileInputs.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Auto.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\ControlzEx.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MahApps.Metro.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MaterialDesignColors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\ControlzEx.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\ControlzEx.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MahApps.Metro.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MahApps.Metro.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MaterialDesignColors.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\App.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Auto.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Rotating Warehouse.csproj.CopyComplete
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\IndustrialNetworks.ModbusCore.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\IndustrialNetworks.ModbusCore.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\History_Control.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Report_Control.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Setting_Control.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\User_Control.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\History_Control.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Report_Control.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\Setting_Control.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\obj\Debug\User_Control.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Buffers.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Memory.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Text.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Buffers.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Memory.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Text.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Rotating Warehouse\bin\Debug\System.ValueTuple.xml

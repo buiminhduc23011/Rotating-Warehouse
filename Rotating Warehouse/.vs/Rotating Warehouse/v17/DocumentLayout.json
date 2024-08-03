@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|g:\\my drive\\sti\\04.shiv12\\08.kho xoay\\rotating warehouse\\setting_control.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:setting_control.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\class\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:class\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\class\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:class\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\class\\ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:class\\ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\class\\handel_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:class\\handel_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\setting_control.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:setting_control.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\auto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:auto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\history_control.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:history_control.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\user_control.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:user_control.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\auto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:auto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\report_control.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:report_control.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\report_control.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:report_control.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB2CA09A-3070-436C-AA21-DB063D2578FC}|Rotating Warehouse.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:426686534:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Setting_Control.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Setting_Control.xaml",
+              "RelativeDocumentMoniker": "Setting_Control.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Setting_Control.xaml",
+              "RelativeToolTip": "Setting_Control.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T16:48:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PLC.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Class\\PLC.cs",
+              "RelativeDocumentMoniker": "Class\\PLC.cs",
+              "ToolTip": "D:\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Class\\PLC.cs*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-03T16:48:59.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Setting_Control.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Setting_Control.xaml.cs",
+              "RelativeDocumentMoniker": "Setting_Control.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Setting_Control.xaml.cs",
+              "RelativeToolTip": "Setting_Control.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwBsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKvSURBVEhL7ZXPTxNREMe/225/LbVdt11AtNAUwUQDoqQcMJE9mXDiYrgYj6QmHv0DqAcPHtQDMVw4cBUOxoMkJJLUhAQlxgvVhFAtCcSUruVXS8Km3V3fPh4VXJQfUU98ksnuvpk382Z2d4bDLzx6OZ/0uhyDMdkHL8897O08n2SqE\u002BFg1yoNohuC24m38\u002BuYzRZ7Xn9Yvj/x8ZvM1MeGx503l9k9ZWWzHDZMDpPpNVyN1CjRkCdyrsZcGh4ezkxNTTGrHTweD7q6utDd3a0Fg8Hl1tZWjamq8OCMMXZPeTyxVCt4eBRKZWgVE4auX7h3I/DE4XBoRJgVwHE71eV5Hk6n80uxWHxAHjN0cQ8c7k7uq/HNS2KPJPDKu6\u002BbaKn14daVIPra/FjPZZHJ/NxfKpUwNzcHSZIQi8XU5ubmcZLFeDweTzETiu0lv3q/lPxeqgy\u002BmFVxvcmPvmsSmiRySuioVCrMipRyZQWjo6PI5/M0iKIoCIVCzwOBwLO95bK95Ex\u002BG0VNx\u002B24jN42kTqHUYGu68xiP4ZhYGNjA6lUCgsLC/2kXE9JuSJMbQ8QEw20SEBnow\u002BNZ3dODtOAaZrMwk65XMbq6iqy2aw8MzNzkYiHqewBwsij1rmGhjMmBJdJy3KQc3JShMNh1NXVUZFlmQYhzjE9Pc2siB27VhFFUcnlckokEoHX62WrdtxuN6LRKNrb29HR0UFF0zQsLi6q5AsbT6fTqmVny4A4h6qqNO0/lcX6PK0M6uvrq\u002BL3\u002B\u002Bkea\u002B8utgBWSX5XlpNgC/C3OQ1wKKcBDuX/B7D\u002BUOsnKxQKtCUfR7a2tmANJZfLxbwdMA8GBgaSxGjQ6jW7U\u002BuoWB2AtInP5ID9IyMjn6w1m4dEIqGQHq9YE2vvgDkKgiDA5/OpJIOxoaEh2uz\u002BMcAPkFkfhKsBGPMAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-03T16:48:59.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwFoAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKvSURBVEhL7ZXPTxNREMe/225/LbVdt11AtNAUwUQDoqQcMJE9mXDiYrgYj6QmHv0DqAcPHtQDMVw4cBUOxoMkJJLUhAQlxgvVhFAtCcSUruVXS8Km3V3fPh4VXJQfUU98ksnuvpk382Z2d4bDLzx6OZ/0uhyDMdkHL8897O08n2SqE\u002BFg1yoNohuC24m38\u002BuYzRZ7Xn9Yvj/x8ZvM1MeGx503l9k9ZWWzHDZMDpPpNVyN1CjRkCdyrsZcGh4ezkxNTTGrHTweD7q6utDd3a0Fg8Hl1tZWjamq8OCMMXZPeTyxVCt4eBRKZWgVE4auX7h3I/DE4XBoRJgVwHE71eV5Hk6n80uxWHxAHjN0cQ8c7k7uq/HNS2KPJPDKu6\u002BbaKn14daVIPra/FjPZZHJ/NxfKpUwNzcHSZIQi8XU5ubmcZLFeDweTzETiu0lv3q/lPxeqgy\u002BmFVxvcmPvmsSmiRySuioVCrMipRyZQWjo6PI5/M0iKIoCIVCzwOBwLO95bK95Ex\u002BG0VNx\u002B24jN42kTqHUYGu68xiP4ZhYGNjA6lUCgsLC/2kXE9JuSJMbQ8QEw20SEBnow\u002BNZ3dODtOAaZrMwk65XMbq6iqy2aw8MzNzkYiHqewBwsij1rmGhjMmBJdJy3KQc3JShMNh1NXVUZFlmQYhzjE9Pc2siB27VhFFUcnlckokEoHX62WrdtxuN6LRKNrb29HR0UFF0zQsLi6q5AsbT6fTqmVny4A4h6qqNO0/lcX6PK0M6uvrq\u002BL3\u002B\u002Bkea\u002B8utgBWSX5XlpNgC/C3OQ1wKKcBDuX/B7D\u002BUOsnKxQKtCUfR7a2tmANJZfLxbwdMA8GBgaSxGjQ6jW7U\u002BuoWB2AtInP5ID9IyMjn6w1m4dEIqGQHq9YE2vvgDkKgiDA5/OpJIOxoaEh2uz\u002BMcAPkFkfhKsBGPMAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-03T16:48:59.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ini.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Class\\ini.cs",
+              "RelativeDocumentMoniker": "Class\\ini.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Class\\ini.cs",
+              "RelativeToolTip": "Class\\ini.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-03T16:48:59.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auto.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Auto.xaml.cs",
+              "RelativeDocumentMoniker": "Auto.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Auto.xaml.cs",
+              "RelativeToolTip": "Auto.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwDgAAAAPAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKvSURBVEhL7ZXPTxNREMe/225/LbVdt11AtNAUwUQDoqQcMJE9mXDiYrgYj6QmHv0DqAcPHtQDMVw4cBUOxoMkJJLUhAQlxgvVhFAtCcSUruVXS8Km3V3fPh4VXJQfUU98ksnuvpk382Z2d4bDLzx6OZ/0uhyDMdkHL8897O08n2SqE\u002BFg1yoNohuC24m38\u002BuYzRZ7Xn9Yvj/x8ZvM1MeGx503l9k9ZWWzHDZMDpPpNVyN1CjRkCdyrsZcGh4ezkxNTTGrHTweD7q6utDd3a0Fg8Hl1tZWjamq8OCMMXZPeTyxVCt4eBRKZWgVE4auX7h3I/DE4XBoRJgVwHE71eV5Hk6n80uxWHxAHjN0cQ8c7k7uq/HNS2KPJPDKu6\u002BbaKn14daVIPra/FjPZZHJ/NxfKpUwNzcHSZIQi8XU5ubmcZLFeDweTzETiu0lv3q/lPxeqgy\u002BmFVxvcmPvmsSmiRySuioVCrMipRyZQWjo6PI5/M0iKIoCIVCzwOBwLO95bK95Ex\u002BG0VNx\u002B24jN42kTqHUYGu68xiP4ZhYGNjA6lUCgsLC/2kXE9JuSJMbQ8QEw20SEBnow\u002BNZ3dODtOAaZrMwk65XMbq6iqy2aw8MzNzkYiHqewBwsij1rmGhjMmBJdJy3KQc3JShMNh1NXVUZFlmQYhzjE9Pc2siB27VhFFUcnlckokEoHX62WrdtxuN6LRKNrb29HR0UFF0zQsLi6q5AsbT6fTqmVny4A4h6qqNO0/lcX6PK0M6uvrq\u002BL3\u002B\u002Bkea\u002B8utgBWSX5XlpNgC/C3OQ1wKKcBDuX/B7D\u002BUOsnKxQKtCUfR7a2tmANJZfLxbwdMA8GBgaSxGjQ6jW7U\u002BuoWB2AtInP5ID9IyMjn6w1m4dEIqGQHq9YE2vvgDkKgiDA5/OpJIOxoaEh2uz\u002BMcAPkFkfhKsBGPMAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-03T16:48:59.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T16:48:59.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Path.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Class\\Path.cs",
+              "RelativeDocumentMoniker": "Class\\Path.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Class\\Path.cs",
+              "RelativeToolTip": "Class\\Path.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-03T16:48:59.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Report_Control.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Report_Control.xaml",
+              "RelativeDocumentMoniker": "Report_Control.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Report_Control.xaml",
+              "RelativeToolTip": "Report_Control.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T16:48:59.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auto.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Auto.xaml",
+              "RelativeDocumentMoniker": "Auto.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Auto.xaml",
+              "RelativeToolTip": "Auto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T16:48:59.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Handel_Data.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Class\\Handel_Data.cs",
+              "RelativeDocumentMoniker": "Class\\Handel_Data.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Class\\Handel_Data.cs",
+              "RelativeToolTip": "Class\\Handel_Data.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-03T16:48:59.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "History_Control.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\History_Control.xaml",
+              "RelativeDocumentMoniker": "History_Control.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\History_Control.xaml",
+              "RelativeToolTip": "History_Control.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T16:48:59.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User_Control.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\User_Control.xaml",
+              "RelativeDocumentMoniker": "User_Control.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\User_Control.xaml",
+              "RelativeToolTip": "User_Control.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T16:48:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANwSURBVEhLtVVLSxtRFD4ZowYfEaUJKulCqy6iCw1UjQrJRg24caOrbnQjBFzUX6Abd9Jddy4Em8UEwQcuhYmoDaj1WTAxFTU\u002Bie9HML7Sc46TQWrT4Eg/uNyZufeex3fO/Qb\u002BNzTyDJ2dnYb7\u002B/uWcDhsxCF/jQ9BEECr1UJNTQ1UVVWF8F20WCwheVmB4qCjo8McjUZFPFSalJQkf42Px8dHuLq6grKyMigvL/\u002BVnJzcpdfrv//pRCvPvJkOUUQ0EuH4\u002BBhGRkZgbW0Nzs7OTDabrQ/Pf8Glr087nqA4iEQinHZ6ejrk5ubKX\u002BNDo9EAZUqB7e/vpy4uLhaZTKaWubk5zXO6BN79BiCtcH19DQsLC7Czs2PHbD6npKRYLy4uDLT\u002BZgcEckL0\u002Bnw\u002BmJmZMaGDPsyuhdZUOyAq6\u002BrqwOFw8GhsbIS8vDw4Pz9PRfqKcIuR9ikOaJG4z8zM5FrQIJ7jISMjA2pra9lwbBQWFsLDwwNnFIPioK2tDdrb26GyspKj0\u002Bl0gK3Hjt4CPh0KhezY/87Z2Vnj6OgouFwumJychL29Pe6URNn8CwIaMWOB7HiLHdhq\u002BuHhYRgYGICxsTFYXV3lNiSodoARivSAvHU1NzcHsX/h5uYG5ufnYWJiAqampvhdLVXC0NBQqSRJNqTIYjQavyH3Un5\u002BPhsNBAKwtLQEt7e3TJUaCKIowvLysj0YDH7yer0/UAJ\u002BZmdns5CRHGxtbQHSp56iy8tLmJ6ehv7\u002BfhNy3oe3sZWijimqWsMxCMXFxWxkY2MjFYWr6ODgwBATvlj3kE5Rf6upg0DKWVBQwC/b29twcnLC9NAg41QL\u002Bn56esrvr81IaGpqgoaGBrBarYBFBtR0HlQHwubmJgwODgLWR8niNZloc3JyesgYSQRFTd2CXfSuurq61e/3G6geSB94PB6WAPx7QVZWFjshGhNBi8a75WcF2Dkf0Nn78fFxK9bDsL6\u002BDngJScjYuNls5iyJzru7O/kUsGxTgM9p/GtzO53OMG70ojE91ucjdhbXgAzu7u4CZs104h3iDiTnNA4PDzmAiooKEkNPb2\u002BvpPzRnqOkpCSCUwDvhhvnaH19fStGbFhZWWHpwAsooRHP0dER/c34DCEtLU2pD9In0ZywJbDIZqRLRI0qJSEkmcbsetxu9wtqXwLgN9GZkV5GgN3JAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-08-03T16:48:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Report_Control.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Report_Control.xaml.cs",
+              "RelativeDocumentMoniker": "Report_Control.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\Report_Control.xaml.cs",
+              "RelativeToolTip": "Report_Control.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKvSURBVEhL7ZXPTxNREMe/225/LbVdt11AtNAUwUQDoqQcMJE9mXDiYrgYj6QmHv0DqAcPHtQDMVw4cBUOxoMkJJLUhAQlxgvVhFAtCcSUruVXS8Km3V3fPh4VXJQfUU98ksnuvpk382Z2d4bDLzx6OZ/0uhyDMdkHL8897O08n2SqE\u002BFg1yoNohuC24m38\u002BuYzRZ7Xn9Yvj/x8ZvM1MeGx503l9k9ZWWzHDZMDpPpNVyN1CjRkCdyrsZcGh4ezkxNTTGrHTweD7q6utDd3a0Fg8Hl1tZWjamq8OCMMXZPeTyxVCt4eBRKZWgVE4auX7h3I/DE4XBoRJgVwHE71eV5Hk6n80uxWHxAHjN0cQ8c7k7uq/HNS2KPJPDKu6\u002BbaKn14daVIPra/FjPZZHJ/NxfKpUwNzcHSZIQi8XU5ubmcZLFeDweTzETiu0lv3q/lPxeqgy\u002BmFVxvcmPvmsSmiRySuioVCrMipRyZQWjo6PI5/M0iKIoCIVCzwOBwLO95bK95Ex\u002BG0VNx\u002B24jN42kTqHUYGu68xiP4ZhYGNjA6lUCgsLC/2kXE9JuSJMbQ8QEw20SEBnow\u002BNZ3dODtOAaZrMwk65XMbq6iqy2aw8MzNzkYiHqewBwsij1rmGhjMmBJdJy3KQc3JShMNh1NXVUZFlmQYhzjE9Pc2siB27VhFFUcnlckokEoHX62WrdtxuN6LRKNrb29HR0UFF0zQsLi6q5AsbT6fTqmVny4A4h6qqNO0/lcX6PK0M6uvrq\u002BL3\u002B\u002Bkea\u002B8utgBWSX5XlpNgC/C3OQ1wKKcBDuX/B7D\u002BUOsnKxQKtCUfR7a2tmANJZfLxbwdMA8GBgaSxGjQ6jW7U\u002BuoWB2AtInP5ID9IyMjn6w1m4dEIqGQHq9YE2vvgDkKgiDA5/OpJIOxoaEh2uz\u002BMcAPkFkfhKsBGPMAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-03T16:48:59.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\08.Kho Xoay\\Rotating Warehouse\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T16:48:59.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

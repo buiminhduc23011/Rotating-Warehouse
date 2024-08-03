@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Connect_PLC_Web_KhoXoay/1.0.0": {
+        "runtime": {
+          "Connect_PLC_Web_KhoXoay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connect_PLC_Web_KhoXoay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

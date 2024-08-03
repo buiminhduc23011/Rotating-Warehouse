@@ -1,0 +1,127 @@
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\obj\Debug\Service_PLC.csproj.AssemblyReference.cache
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\obj\Debug\Service_PLC.csproj.SuggestedBindingRedirects.cache
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\obj\Debug\Service_PLC.csproj.CoreCompileInputs.cache
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\Service_PLC.exe.config
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\Service_PLC.exe
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\Service_PLC.pdb
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\Melsec.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\obj\Debug\Service_PLC.csproj.CopyComplete
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\obj\Debug\Service_PLC.exe
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\obj\Debug\Service_PLC.pdb
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\SocketIOClient.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Buffers.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Memory.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Text.Json.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.ValueTuple.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\SocketIOClient.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Buffers.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Memory.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Text.Json.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\21.Sei\Service_PLC\bin\Debug\System.ValueTuple.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\Service_PLC.exe.config
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\Service_PLC.exe
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\Service_PLC.pdb
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\IndustrialNetworks.ModbusCore.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\SocketIOClient.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Buffers.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Memory.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Text.Json.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.ValueTuple.dll
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\IndustrialNetworks.ModbusCore.pdb
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\SocketIOClient.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Buffers.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Memory.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Text.Json.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DucBui\Downloads\Service_PLC\bin\Debug\System.ValueTuple.xml
+C:\Users\DucBui\Downloads\Service_PLC\obj\Debug\Service_PLC.csproj.AssemblyReference.cache
+C:\Users\DucBui\Downloads\Service_PLC\obj\Debug\Service_PLC.csproj.CoreCompileInputs.cache
+C:\Users\DucBui\Downloads\Service_PLC\obj\Debug\Service_PLC.csproj.CopyComplete
+C:\Users\DucBui\Downloads\Service_PLC\obj\Debug\Service_PLC.exe
+C:\Users\DucBui\Downloads\Service_PLC\obj\Debug\Service_PLC.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Service_PLC.exe.config
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Service_PLC.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Service_PLC.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\IndustrialNetworks.ModbusCore.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\SocketIOClient.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Buffers.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Memory.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Text.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\IndustrialNetworks.ModbusCore.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\SocketIOClient.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Buffers.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Memory.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Text.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.csproj.AssemblyReference.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.csproj.CoreCompileInputs.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.csproj.CopyComplete
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Service_PLC.exe.config
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Service_PLC.exe
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Service_PLC.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\SocketIOClient.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Buffers.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Memory.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Text.Json.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.ValueTuple.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\IndustrialNetworks.ModbusCore.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\SocketIOClient.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Buffers.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Memory.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Text.Json.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\bin\Debug\System.ValueTuple.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.csproj.AssemblyReference.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.csproj.CoreCompileInputs.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_.0C5EE7E4.Up2Date
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.exe
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\08.Kho Xoay\Service_PLC\obj\Debug\Service_PLC.pdb

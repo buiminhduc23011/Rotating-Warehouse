@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="Rotating_Warehouse.Setting_Control"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Rotating_Warehouse"
+             mc:Ignorable="d"
+             d:DesignHeight="925"
+             d:DesignWidth="1645">
+    <Grid VerticalAlignment="Top" Height="925" Width="1645">
+        <StackPanel VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal"
+                        VerticalAlignment="Top">
+                <Grid Height="60"
+                      Width="1410">
+                    <Label Content="Cài Đặt Hệ Thống"
+                           Foreground="Black"
+                           FontSize="25"
+                           FontStyle="Normal"
+                           FontWeight="Bold"
+                           Margin="10,0,0,0"
+                           VerticalAlignment="Top"
+                           FontFamily="Source Sans Pro"></Label>
+                </Grid>
+            </StackPanel>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Port Name:"
+                           Foreground="Black"
+                           FontSize="15"
+                           FontStyle="Normal"
+                           FontWeight="Bold"
+                           Width="90"
+                           FontFamily="Source Sans Pro"
+                           HorizontalAlignment="Center"
+                           Margin="10,0,0,0"
+                           VerticalAlignment="Center">
+
+                    </Label>
+                    <ComboBox x:Name="comPortComboBox"
+                              FontSize="12"
+                              FontStyle="Normal"
+                              FontWeight="Bold"
+                              FontFamily="Source Sans Pro"
+                              HorizontalAlignment="Center"
+                              Width="90"
+                              Margin="10,0,0,0"
+                              DropDownOpened="comPortComboBox_DropDownOpened" />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Save"
+                        x:Name="bt_Save"
+                        Width="100"
+                        Margin="10,20,0,0"
+                        Click="bt_Save_Click"></Button>
+            </StackPanel>
+            
+        </StackPanel>
+    </Grid>
+</UserControl>
